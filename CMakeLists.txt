@@ -6,3 +6,4 @@ set(CMAKE_C_STANDARD 11)
 project(my-linux-commands)
 
 add_subdirectory(cat)
+add_subdirectory(echo)
