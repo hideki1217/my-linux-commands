@@ -7,3 +7,4 @@ project(my-linux-commands)
 
 add_subdirectory(cat)
 add_subdirectory(echo)
+add_subdirectory(head)
